@@ -4,6 +4,7 @@ x=input('do you want to learn git?')
 
 if x=='yes':
     print('All the best!')
+    print('Are you excited')
 
 elif x=='no':
     print('May I know why you do not want to learn.')
